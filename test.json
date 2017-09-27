@@ -1,0 +1,29 @@
+{
+  "LigneList": [
+    {
+      "id": 1,
+      "name": "AU - NSW",
+      "editable": false,
+      "children": [],
+      "subGroups": [1]
+    }
+  ],
+  "UnitList": [
+    {
+      "id": 1,
+      "name": "Neutral Bay",
+      "editbale" : false,
+      "children" : [5],
+      "subGroups" : []
+    }
+  ],
+  "ChannelList": [
+      {
+          "id" : 5,
+          "name" : "DEPL",
+          "editable" : false,
+          "children" : [],
+          "subGroups" : []
+      }
+  ]
+}
